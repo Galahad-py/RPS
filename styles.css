@@ -1,0 +1,14 @@
+/* styles.css */
+.first_declared, .last_declared {
+  background-color: rgb(200, 50, 150
+  );
+  font-weight: 800;
+}
+.first_declared {
+  color: rgb(50, 50, 200
+    );
+  font-size: 32px;
+}
+.last_declared {
+  font-size: 14px;
+}
