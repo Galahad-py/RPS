@@ -62,7 +62,7 @@ function declareWinner() {
     } else {
         resultsDiv.textContent = `Tie Game!`
     }
-
+    
     // thsi disables the buttons once the game is over
     document.querySelector('#rock').disabled = true;
     document.querySelector('#paper').disabled = true;
